@@ -3,8 +3,8 @@ baseurl: "/jmyang" # the name of your github repo
 url: "https://BoBandJeFFarefarmers.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Jonathan Yang Personal Website"
+description: Jonathan's Website
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
