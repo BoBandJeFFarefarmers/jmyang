@@ -4,12 +4,10 @@ title: About
 permalink: about
 ---
 
-> Jonathan likes to code a lot. He also likes to go to school as well.
+> Jonathan likes to code a lot. He also enjoys taking pictures as well.
 
 ## Interests
 
 • [Basketball](https://warriors.com)
-• Python
-• Web Development
-• Farmers
-• Chickens
+• [Python](https://www.python.org/)
+• Photography
