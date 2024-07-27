@@ -28,11 +28,10 @@ twitter: false
 facebook: false
 instagram: https://www.instagram.com/jonyang.3011/
 github: https://github.com/BoBandJeFFarefarmers
-linkedin: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-          <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-yang-4abb0b287" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-yang-4abb0b287?trk=profile-badge">Jonathan Yang</a></div>
+linkedin: https://www.linkedin.com/in/jonathan-yang-4abb0b287/
 medium: false
 google-scholar: false
-email: false
+email: jonathan.m.yang@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
